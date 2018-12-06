@@ -1,0 +1,6 @@
+rootProject.name = 'java-spi-demo'
+
+include ':queue-spi'
+include ':queue-nop'
+include ':queue-simple'
+include ':queue-app'
