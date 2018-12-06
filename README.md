@@ -59,5 +59,5 @@ multiple implementations can be included and any one of them loaded as needed.
 
 ## License
 
-`java-spi-demo` Copyright 2018 Paul howes and is licensed under the Apache
+`java-spi-demo` Copyright 2018 Paul Howes and is licensed under the Apache
 License.
